@@ -16,3 +16,7 @@
 | P L1       | String        | [자연수 뒤집어 배열로 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12932) | 2024/04/30 |
 | P L1       | String        | [정수 내림차순으로 배치하기](https://school.programmers.co.kr/learn/courses/30/lessons/12933)  | 2024/04/30 |
 | P L1       | Math          | [두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912)           | 2024/04/30 |
+| P L1       | String        | [핸드폰 번호 가리기](https://school.programmers.co.kr/learn/courses/30/lessons/12948)          | 2024/05/07 |
+| P L1       | Math          | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   | 2024/05/07 |
+| P L1       | Math          | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                   | 2024/05/07 |
+| P L1       | Serach        | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)        | 2024/05/07 |
