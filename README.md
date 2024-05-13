@@ -20,3 +20,4 @@
 | P L1       | Math          | [나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910)   | 2024/05/07 |
 | P L1       | Math          | [하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)                   | 2024/05/07 |
 | P L1       | Serach        | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)        | 2024/05/07 |
+| P L3       | Greedy        | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                  | 2024/05/13 |
