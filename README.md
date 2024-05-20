@@ -22,3 +22,4 @@
 | P L1       | Serach        | [서울에서 김서방 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12919)        | 2024/05/07 |
 | P L3       | Greedy        | [단속카메라](https://school.programmers.co.kr/learn/courses/30/lessons/42884)                  | 2024/05/13 |
 | P L3       | DP            | [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)            | 2024/05/13 |
+| P L1       | Two Pointer   | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                   | 2024/05/20 |
