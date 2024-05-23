@@ -24,3 +24,4 @@
 | P L3       | DP            | [스티커 모으기(2)](https://school.programmers.co.kr/learn/courses/30/lessons/12971)            | 2024/05/13 |
 | P L3       | Two Pointer   | [보석 쇼핑](https://school.programmers.co.kr/learn/courses/30/lessons/67258)                   | 2024/05/20 |
 | P L3       | Binary Search | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)             | 2024/05/20 |
+| P L4       | DP            | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)                      | 2024/05/23 |
