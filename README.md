@@ -26,3 +26,5 @@
 | P L3       | Binary Search | [징검다리 건너기](https://school.programmers.co.kr/learn/courses/30/lessons/64062)             | 2024/05/20 |
 | P L4       | DP            | [도둑질](https://school.programmers.co.kr/learn/courses/30/lessons/42897)                      | 2024/05/23 |
 | P L4       | Greedy        | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891)          | 2024/06/04 |
+| P L3       | DP            | [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)                 | 2024/06/11 |
+| P L3       | DFS           | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                    | 2024/06/11 |
