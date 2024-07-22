@@ -30,3 +30,4 @@
 | P L3       | DFS            | [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)                    | 2024/06/11 |
 | P L3       | Implementation | [야근 지수](https://school.programmers.co.kr/learn/courses/30/lessons/12927)                   | 2024/06/24 |
 | P L3       | BFS/DP         | [경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)                 | 2024/07/11 |
+| P L3       | Graph          | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                 | 2024/07/22 |
