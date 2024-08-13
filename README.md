@@ -33,3 +33,4 @@
 | P L3       | Graph          | [섬 연결하기](https://school.programmers.co.kr/learn/courses/30/lessons/42861)                 | 2024/07/22 |
 | P L3       | DP             | [연속 펄스 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/161988)   | 2024/08/01 |
 | P L2       | Stack          | [뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)       | 2024/08/13 |
+| P L2       | Set            | [방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)                   | 2024/08/13 |
